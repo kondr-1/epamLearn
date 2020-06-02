@@ -10,7 +10,7 @@ public class Main {
         System.out.println("1. Сложение");
         System.out.println("2. Вычитание");
         System.out.println("3. Умножение");
-        System.out.println("4. Деление");
+        System.out.println("4. Деление/умножение");
         Scanner scanner = new Scanner(System.in);
         int operation = scanner.nextInt();
         System.out.println("Введите первое число");
