@@ -1,0 +1,70 @@
+[33mcommit f9d68555ed08f0717b73ae9190ab87bebe35ee75[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Anton Kondralev <motovolg-1@yandex.ru>
+Date:   Wed Jun 3 01:34:42 2020 +0400
+
+    work
+
+[33mcommit 1a8860cbf72dc594ec36edba0a895bf17d458434[m
+Merge: c6449ab c6b89b1
+Author: Anton Kondralev <motovolg-1@yandex.ru>
+Date:   Wed Jun 3 00:52:13 2020 +0400
+
+    Merge commit 'c6b89b14e15772e5e428caf294d6bea97fb787a9'
+    
+    # Conflicts:
+    #       src/com/company/Main.java
+
+[33mcommit c6b89b14e15772e5e428caf294d6bea97fb787a9[m
+Author: Anton Kondralev <motovolg-1@yandex.ru>
+Date:   Wed Jun 3 00:47:59 2020 +0400
+
+    variables
+    
+    # Conflicts:
+    #       src/com/company/Main.java
+
+[33mcommit c6449abf8b5750942a2aa7bd8f23de540f13d36b[m
+Author: Anton Kondralev <motovolg-1@yandex.ru>
+Date:   Wed Jun 3 00:41:03 2020 +0400
+
+    variables
+
+[33mcommit 16be2a4816ced2b6fa951439219276c47e3ecb5a[m[33m ([m[1;32mbugFix[m[33m)[m
+Author: Anton Kondralev <motovolg-1@yandex.ru>
+Date:   Wed Jun 3 00:35:20 2020 +0400
+
+    operations
+
+[33mcommit 61274a11f4f9221399a0a1a769429922aa52b653[m[33m ([m[1;33mtag: test[m[33m)[m
+Merge: c12cda0 3fb0568
+Author: Anton Kondralev <motovolg-1@yandex.ru>
+Date:   Tue Jun 2 23:28:55 2020 +0400
+
+    Merge branch 'Develop'
+    
+    # Conflicts:
+    #       src/com/company/Main.java
+
+[33mcommit c12cda0e2e909b8b67a725c0ec92f13353c78c92[m
+Author: Anton Kondralev <motovolg-1@yandex.ru>
+Date:   Tue Jun 2 23:02:29 2020 +0400
+
+    merge conflict
+
+[33mcommit 3fb05685791667819a91e0ad407372195285b107[m[33m ([m[1;31morigin/Develop[m[33m, [m[1;32mDevelop[m[33m)[m
+Author: Anton Kondralev <motovolg-1@yandex.ru>
+Date:   Tue Jun 2 22:57:03 2020 +0400
+
+    the first code
+
+[33mcommit f0c8668fa73e14b2fe41771c193d5be0b3d1331f[m
+Author: Anton Kondralev <motovolg-1@yandex.ru>
+Date:   Tue Jun 2 22:44:10 2020 +0400
+
+    дозакидываем через gitExtensions
+
+[33mcommit a7884faafc54a4c4ef83d6f63d61b4c72f7e7d4f[m
+Author: Anton Kondralev <motovolg-1@yandex.ru>
+Date:   Tue Jun 2 22:42:40 2020 +0400
+
+    закидываем в github
